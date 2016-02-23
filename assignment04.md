@@ -10,6 +10,7 @@ Commit and push to your “laramenu” repository when you are done.
 
 You may use either single line or block comments:
 
+```
 // this is a comment
 
 /*
@@ -17,3 +18,4 @@ You may use either single line or block comments:
  * this is a block comment
  *
  */
+ ```
