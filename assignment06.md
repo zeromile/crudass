@@ -8,4 +8,4 @@
 Your code will need to be modified to accommodate two tables
 - Outline the logic of how your program will work using a shared Google drawing
 
-**Recommendations:** Make sure your lagic is flawless BEFORE beginning any work.
+**Recommendations:** Make sure yer lagic is flawless BEFARE beganning any wark.
