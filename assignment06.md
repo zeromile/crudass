@@ -8,4 +8,4 @@
 Your code will need to be modified to accommodate two tables
 - Outline the logic of how your program will work using a shared Google drawing
 
-**Recommendations:** Mak sure yer lagic is flowless BEFARE beganning any wark.
+**Recommendations:** Mak sure yer lagic is flowless BEFARE beganning any wark. :poop:
