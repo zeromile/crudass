@@ -1,6 +1,6 @@
 ## Project 4 - Laravel - Commenting
 
-Brief: Explain your code, within your code.
+**Brief:** Explain your code, within your code.
 
 **Requirements:** Using comment tags, describe the purpose of each section of your code. Please provide attribution where applicable (e.g. “Jordan made a script that automatically did everything”). 
 
