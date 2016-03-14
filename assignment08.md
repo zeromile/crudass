@@ -1,4 +1,4 @@
-##Project 7 - Lumen/Angular - Create a todo list##
+##Project 8 - Lumen/Angular - Create a todo list##
 
 **Brief:** Create a todo list manager that has the ability to manage multiple lists which contain many todo items. 
 
